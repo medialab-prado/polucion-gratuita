@@ -13,4 +13,4 @@ Las fases del proceso de producción que se tomarán en cuenta, son:
 * Fase de conservación
 * Fase de consumo final
 
-[Proyecto seleccionado](https://www.medialab-prado.es/proyectos/polucion-gratuita-de-la-industria-la-basura) dentro del Taller de Periodismo de datos 2018
+[Proyecto seleccionado](https://www.medialab-prado.es/proyectos/polucion-gratuita-de-la-industria-la-basura) dentro del [https://www.medialab-prado.es/programas/taller-de-periodismo-de-datos-2018-los-ods-relacionados-con-el-medio-ambiente-en-madrid](Taller de Periodismo de datos 2018): Los ODS relacionados con Medio Ambiente en Madrid
