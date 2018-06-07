@@ -15,3 +15,10 @@ Las fases del proceso de producción que se tomarán en cuenta, son:
 * Fase de consumo final
 
 [Proyecto seleccionado](https://www.medialab-prado.es/proyectos/polucion-gratuita-de-la-industria-la-basura) dentro del [Taller de Periodismo de datos 2018](https://www.medialab-prado.es/programas/taller-de-periodismo-de-datos-2018-los-ods-relacionados-con-el-medio-ambiente-en-madrid): Los ODS relacionados con Medio Ambiente en Madrid
+
+
+BASE DE DATOS AQUASTAT DE LAS NACIONES UNIDAD: 
+http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en 
+http://www.fao.org/nr/water/aquastat/main/index.stm
+BASE DE DATOS FERTILIZERS USED BY CROP:
+https://www.fertilizer.org/En/Statistics/Agriculture_Databases/Agriculture_Committee_Databases.aspx?New_ContentCollectionOrganizerCommon=1#New_ContentCollectionOrganizerCommon
